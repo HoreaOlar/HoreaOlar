@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HoreaOlar
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning Full Stack development
